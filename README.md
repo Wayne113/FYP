@@ -8,4 +8,4 @@ Computer Science final year project created using YOLO model in Flutter app - Re
 👉 [Download Here](https://drive.google.com/file/d/1vd7Yh5fXRp7HusUUmmLaBuUvjJSLy6Yq/view?usp=sharing)
 
 2. Move the model file to **assets** folder.
-3. Run your IDE compiler to install and launch in your devices.
+3. Run your IDE compiler to install and launch in your devices (iOS isn't supported for now).
