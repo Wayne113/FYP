@@ -5,7 +5,7 @@ Computer Science final year project created using YOLO model in Flutter app - Re
 ## Getting Started
 
 1. Trained model can be downloaded here:
-👉 [Download from Google Drive](https://drive.google.com/file/d/1vd7Yh5fXRp7HusUUmmLaBuUvjJSLy6Yq/view?usp=sharing)
+👉 [Download Here](https://drive.google.com/file/d/1vd7Yh5fXRp7HusUUmmLaBuUvjJSLy6Yq/view?usp=sharing)
 
 2. Move the model file to **assets** folder.
 3. Run your IDE compiler to install and launch in your devices.
