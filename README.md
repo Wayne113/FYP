@@ -1,8 +1,11 @@
 # fyp_yolo
 
-Computer Science final year project created using YOLO model in Flutter app.
+Computer Science final year project created using YOLO model in Flutter app - Real-time detection for tomatoes ripeness.
 
 ## Getting Started
 
-The large file (200 MB) can be downloaded here:
+1. Trained model can be downloaded here:
 👉 [Download from Google Drive](https://drive.google.com/yourlink)
+
+2. Move the model file to **assets** folder.
+3. Run your IDE compiler to install and launch in your devices.
